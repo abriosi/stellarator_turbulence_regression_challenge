@@ -7,7 +7,7 @@ python --version
 Python 3.10.6
 ```
 
-The packages used are at `requirements.txt``
+The packages used are at `requirements.txt`
 
 Two notebooks:
 
